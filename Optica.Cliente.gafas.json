@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "68dbc475dda5fb5d17f353f6"
+  },
+  "marca": "Rayban",
+  "graduacion_cristal_izquierdo": -1.5,
+  "graduacion_cristal_derecho": -0.75,
+  "tipo_montura": "Flotante",
+  "color_montura": "Marron",
+  "color_cristal_izquierdo": "transparente",
+  "color_cristal_derecho": "transparente",
+  "precio": 150
+},
+{
+  "_id": {
+    "$oid": "68dbc5ffdda5fb5d17f353f7"
+  },
+  "marca": "Adidas",
+  "graduacion_cristal_izquierdo": 0.75,
+  "graduacion_cristal_derecho": 0.5,
+  "tipo_montura": "Pasta",
+  "color_montura": "Negra",
+  "color_cristal_izquierdo": "Negra",
+  "color_cristal_derecho": "Negra",
+  "precio": 240
+}]

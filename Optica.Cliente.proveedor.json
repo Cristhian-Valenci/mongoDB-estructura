@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "68d6a3f1dda5fb5d17f353df"
+  },
+  "nombre": "Gafas a tu alcance",
+  "telefono": 600323232,
+  "fax": 956343434,
+  "nif": "78877878x",
+  "direccion": {
+    "calle": "Joaquin Costa",
+    "numero": 21,
+    "puerta": "8",
+    "ciudad": "Barcelona",
+    "codigoPostal": 8002,
+    "pais": "España"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d6a49adda5fb5d17f353e0"
+  },
+  "nombre": "Las gafas mas baratas",
+  "telefono": 634567890,
+  "fax": 932435467,
+  "nif": "23232323j",
+  "direccion": {
+    "calle": "Las ramblas",
+    "numero": 89,
+    "puerta": "5",
+    "ciudad": "Barcelona",
+    "codigoPostal": 8015,
+    "pais": "España"
+  }
+}]

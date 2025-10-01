@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "68d52413dda5fb5d17f353d4"
+  },
+  "nombre": "Cristhian",
+  "fechaRegistro": {
+    "$date": "1970-01-01T00:00:00.000Z"
+  },
+  "telefono": "600202020",
+  "correoElectronico": "cris22@hotmail.com",
+  "direccion": {
+    "calle": "General Flores",
+    "numero": 2777,
+    "puerta": "3",
+    "ciudad": "Barcelona",
+    "codigoPostal": 8002,
+    "pais": "España"
+  },
+  "compras": [
+    {
+      "fechaYHora": {
+        "$date": "2025-09-20T20:32:00.000Z"
+      },
+      "id_vendedor": "68d6a374dda5fb5d17f353d8",
+      "id_gafa": "68dbc475dda5fb5d17f353f6"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d6a0a5dda5fb5d17f353d5"
+  },
+  "nombre": "Pepe",
+  "fechaRegistro": {
+    "$date": "2024-05-08T00:00:00.000Z"
+  },
+  "telefono": "600323232",
+  "correoElectronico": "pepe@hotmail.com",
+  "direccion": {
+    "calle": "Marina",
+    "numero": 22,
+    "puerta": "5",
+    "ciudad": "Barcelona",
+    "codigoPostal": 8005,
+    "pais": "España"
+  },
+  "recomendadoPor": "68d52413dda5fb5d17f353d4",
+  "compras": [
+    {
+      "fechaYHora": {
+        "$date": "2025-07-14T20:32:00.000Z"
+      },
+      "id_vendedor": "68d6a399dda5fb5d17f353d9",
+      "id_gafa": "68dbc475dda5fb5d17f353f6"
+    },
+    {
+      "fechaYHora": {
+        "$date": "2025-08-24T15:14:00.000Z"
+      },
+      "id_vendedor": "68d6a399dda5fb5d17f353d9",
+      "id_gafa": "68dbc5ffdda5fb5d17f353f7"
+    }
+  ]
+}]
