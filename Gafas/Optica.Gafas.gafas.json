@@ -1,0 +1,98 @@
+[
+  {
+    "_id": "68dbc475dda5fb5d17f353f6",
+
+    "marca": "Rayban",
+    "tipo_montura": "Flotante",
+    "precio": 150,
+
+    "graduacion": {
+      "izquierdo": -1.5,
+      "derecho": -0.75
+    },
+
+    "color_montura": "Marron",
+    "color_cristal": {
+      "izquierdo": "Transparente",
+      "derecho": "Transparente"
+    },
+
+    "proveedor": {
+      "id": "68d6a3f1dda5fb5d17f353df",
+      "nombre": "Gafas a tu alcance"
+    },
+
+    "ventas": [
+      {
+        "cliente": {
+          "id": "68d52413dda5fb5d17f353d4",
+          "nombre": "Cristhian"
+        },
+        "vendedor": {
+          "id": "68d6a374dda5fb5d17f353d8",
+          "nombre": "Valentina"
+        },
+        "fecha_hora": "2025-09-20T20:32:00.000Z"
+      },
+      {
+        "cliente": {
+          "id": "68d6a0a5dda5fb5d17f353d5",
+          "nombre": "Laura"
+        },
+        "vendedor": {
+          "id": "68d6a374dda5fb5d17f353d8",
+          "nombre": "Valentina"
+        },
+        "fecha_hora": "2024-03-22T19:45:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": "68dbc5ffdda5fb5d17f353f7",
+
+    "marca": "Adidas",
+    "tipo_montura": "Pasta",
+    "precio": 240,
+
+    "graduacion": {
+      "izquierdo": 0.75,
+      "derecho": 0.5
+    },
+
+    "color_montura": "Negra",
+    "color_cristal": {
+      "izquierdo": "Negra",
+      "derecho": "Negra"
+    },
+
+    "proveedor": {
+      "id": "68d6a49adda5fb5d17f353e0",
+      "nombre": "Las gafas mas baratas"
+    },
+
+    "ventas": [
+      {
+        "cliente": {
+          "id": "68d52413dda5fb5d17f353d4",
+          "nombre": "Cristhian"
+        },
+        "vendedor": {
+          "id": "68d6a399dda5fb5d17f353d9",
+          "nombre": "Alejo"
+        },
+        "fecha_hora": "2024-06-05T07:42:00.000Z"
+      },
+      {
+        "cliente": {
+          "id": "68d6a0a5dda5fb5d17f353d5",
+          "nombre": "Laura"
+        },
+        "vendedor": {
+          "id": "68d6a399dda5fb5d17f353d9",
+          "nombre": "Alejo"
+        },
+        "fecha_hora": "2025-12-22T14:59:00.000Z"
+      }
+    ]
+  }
+]
